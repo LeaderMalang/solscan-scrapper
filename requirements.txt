@@ -1,0 +1,6 @@
+bota==4.0.64
+botasaurus==4.0.44
+botasaurus_api==4.0.4
+botasaurus_driver==4.0.55
+botasaurus_proxy_authentication==1.0.16
+botasaurus_requests==4.0.28
